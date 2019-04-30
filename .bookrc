@@ -1,0 +1,15 @@
+{
+  "name": "Carpet Beetles And Their Control",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "repo_url": "https://github.com/marvindanig/carpet-beetles-and-their-control",
+  "source_url": "http://www.gutenberg.org/cache/epub/59378/pg59378.txt",
+  "basename": "pg59378",
+  "start_page": "9"
+}
